@@ -13,7 +13,7 @@
      ms.topic="article"
      ms.tgt_pltfrm="na"
      ms.workload="na"
-     ms.date="02/28/2016"
+     ms.date="03/28/2016"
      ms.author="hegate"/>
 
 # Certified devices for Azure IoT Hub (Other + C)
@@ -23,6 +23,7 @@
 |Device| Tested OS |
 |:---------|:----------|
 |[Freescale FRDM K64](http://www.freescale.com/products/arm-processors/kinetis-cortex-m/k-series/k6x-ethernet-mcus/freescale-freedom-development-platform-for-kinetis-k64-k63-and-k24-mcus:FRDM-K64F) |mbed 2.0 |
+|[SADE IoT Cloud Gateway](http://sade.io) |mbed 2.0 |
 |[TI CC3200](http://www.ti.com/product/cc3200) |TI-RTOS 2.x |
 
 
